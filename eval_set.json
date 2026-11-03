@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How do I request annual leave?",
+    "should_answer": true,
+    "reference": "Employees should submit annual leave requests through PeopleHub: At least 10 calendar days before leave of one to five working days. At least 20 calendar days before leave exceeding five working days. As early as possible for peak periods, including July–August, year-end, and major local holidays."
+  },
+  {
+    "question": "What is the company's policy on employee pet insurance?",
+    "should_answer": false,
+    "reference": ""
+  },
+  {
+    "question": "How long does remote request take to be approved?",
+    "should_answer": true,
+    "reference": "15 calendar days"
+  },
+  {
+    "question": "Can I store full card numbers outside approved payment systems?",
+    "should_answer": true,
+    "reference": "No, you cannot store full card numbers outside approved payment systems."
+  },
+  {
+    "question": "Who decides whether stock is released, reworked, returned?",
+    "should_answer": true,
+    "reference": "The Quality Lead decides whether stock is released, reworked, or returned."
+  },
+  {
+    "question": "Can I bring my dog to the office?",
+    "should_answer": false,
+    "reference": ""
+  },
+  {
+    "question": " What should I specify in a Spend Request in Coupa before confirming an order?",
+    "should_answer": true,
+    "reference": "Description of the product, service, or project.\n\n• Business purpose and expected outcome.\n\n• Total committed value in EUR, excluding recoverable VAT.\n\n• Contract term, renewal date, and cancellation terms.\n\n• Supplier name or proposed sourcing approach.\n\n• Cost centre, general ledger category, and project code.\n\n• Expected delivery date and payment schedule.\n\n• Confirmation that the cost is in the approved annual budget."
+  },
+  {
+    "question": "When are ancelled orders removed?",
+    "should_answer": true,
+    "reference": "Cancelled orders are removed in the month of cancellation."
+  },
+  {
+    "question": "Who is the CEO of IronStore?",
+    "should_answer": false,
+    "reference": ""
+  }
+]

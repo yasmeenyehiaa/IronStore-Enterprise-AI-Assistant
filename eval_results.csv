@@ -1,0 +1,17 @@
+question,should_answer,correct,abstained,cited,reason,answer
+How do I request annual leave?,True,False,False,True,Includes an unsupported fact about manager approval.,"To request annual leave, you should submit your request through PeopleHub at least 10 calendar days in advance for leave of one to five working days, or at least 20 calendar days in advance for leave exceeding five working days. It is important to note that leave is not confirmed until it has been approved by your line manager (Leave and Absence Policy, p.2)."
+What is the company's policy on employee pet insurance?,False,True,True,False,The assistant correctly abstained from answering as it stated it didn't know.,I don't know. Please ask the relevant department.
+How long does remote request take to be approved?,True,True,False,True,The answer matches the reference facts and cites the document title and page.,"Managers should respond to remote work requests within 15 calendar days (Remote Work Policy, p.2)."
+Can I store full card numbers outside approved payment systems?,True,True,False,True,The answer matches the reference and includes document titles and pages.,"No, you must not store full card numbers outside approved payment systems (Terms of Service Overview, p.3; IT Security Policy, p.3)."
+"Who decides whether stock is released, reworked, returned?",True,False,False,True,Includes incorrect information about scrapping.,"The Quality Lead decides whether stock is released, reworked, returned, or scrapped (Warehouse Operations Manual, p.3)."
+Can I bring my dog to the office?,False,True,True,False,The assistant correctly abstained from answering as it stated it didn't know.,I don't know. Please ask the relevant department for clarification on the office pet policy.
+ What should I specify in a Spend Request in Coupa before confirming an order?,True,False,False,True,The answer includes incorrect details not found in the reference.,"In a Spend Request in Coupa, you should specify the following details before confirming an order:
+
+1. Legal entity and billing address.
+2. Supplier details and tax registration information.
+3. Approved value and currency.
+4. Payment terms and delivery requirements.
+5. Cost centre, project code, and requester.
+6. Applicable contract or statement of work reference (Budget Approval Workflow, p.4)."
+When are ancelled orders removed?,True,True,False,True,The answer matches the reference and includes a citation.,"Cancelled orders are removed in the month of cancellation (Sales Commission Plan, p.4)."
+Who is the CEO of IronStore?,False,True,True,False,The assistant correctly abstained from answering as it stated it didn't know.,I don't know. Please ask the relevant department.
